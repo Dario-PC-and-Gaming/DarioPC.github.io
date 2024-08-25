@@ -1,0 +1,62 @@
+{
+    "monitors": [
+      {
+        "id": "1",
+        "name": "Monitor Model 1",
+        "price": "150,000 Naira",
+        "performance": "80",
+        "image": "images/Monitor1.webp",
+        "thumbnails": [
+          "images/Monitor1.0.jpg",
+          "images/Monitor1.1.avif",
+          "images/Monitor1.2.avif"
+        ],
+        "specifications": [
+          "Screen Size: 27 inches",
+          "Resolution: 2560 x 1440",
+          "Refresh Rate: 144Hz",
+          "Response Time: 1ms",
+          "Panel Type: IPS"
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Monitor Model 2",
+        "price": "250,000 Naira",
+        "performance": "95",
+        "image": "images/Monitor2.jpg",
+        "thumbnails": [
+          "images/Monitor3.0.png",
+          "images/Monitor1.1.avif",
+          "images/Monitor1.2.avif"
+        ],
+        "specifications": [
+          "Screen Size: 32 inches",
+          "Resolution: 3840 x 2160",
+          "Refresh Rate: 120Hz",
+          "Response Time: 2ms",
+          "Panel Type: VA"
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Monitor Model 3",
+        "price": "300,000 Naira",
+        "performance": "100",
+        "image": "images/Monitor3.png",
+        "thumbnails": [
+          "images/Monitor3.0.png",
+          "images/Monitor3.1.png",
+          "images/Monitor3.2.png"
+        ],
+        "specifications": [
+          "Screen Size: 32 inches",
+          "Resolution: 3840 x 2160",
+          "Refresh Rate: 120Hz",
+          "Response Time: 2ms",
+          "Panel Type: VA"
+        ]
+      }
+    ]
+  }
+  
